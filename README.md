@@ -34,8 +34,4 @@ O arquivo `dados_sorvete.csv` contém os dados fictícios de temperatura e venda
 
 ## Utilidade
 
-Pode ser usado por professores, alunos, entusiastas ou qualquer pessoa iniciando em Machine Learning.
-
----
-
-Sinta-se à vontade para copiar e adaptar!
+Pode ser usado por professores, alunos, entusiastas ou qualquer pessoa iniciando em *Machine Learning*.
